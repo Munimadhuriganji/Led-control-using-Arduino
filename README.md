@@ -1,3 +1,4 @@
+
 ## NAME: GANJI MUNI MADHURI
 ## REG NO: 212223230060
 # EX01 LED CONTROL USING ARDUINO 
@@ -46,9 +47,11 @@ Security System Indicator </br>
 Emergency Signaling System </br>
 Weighing Machines </br>
 ## CIRCUIT DIAGRAM
-![Screenshot 2024-09-10 115626](https://github.com/user-attachments/assets/960dabf0-bdca-491a-a7e7-b07eb7ca41d4)
+![image](https://github.com/user-attachments/assets/080d98d7-9f34-4bab-9f53-89aa9e39093a)
+
 ## PROGRAM
 ```
+
 const int buttonPin = 3;     
 const int ledPin =  13;     
 int buttonState = 0;         
@@ -68,18 +71,29 @@ void loop()
   digitalWrite(ledPin, LOW);
 }
 }
+
 ```
+
 ## OUTPUT
-# ON:
+
+## ON:
+
 ![on](https://github.com/user-attachments/assets/08ae56a8-fbe5-4991-9ab0-f706a54f3551)
-
-
-
-
-# OFF:
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+## OFF:
 
 ![f](https://github.com/user-attachments/assets/8947784a-3dad-4ace-818d-1583b9694e6a)
 
-
 ## RESULT
+
 Thus an LED control system using arduino microcontroller and push button is executed.
