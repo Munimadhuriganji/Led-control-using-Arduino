@@ -1,5 +1,5 @@
 # NAME:GANJI MUNI MADHURI
-# REFERENCE NUMBER:212223230060
+# REGISTER NUMBER:212223230060
 # EX01 Led-control-using-Arduino
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -71,8 +71,8 @@ void loop()
 ```
 ## OUTPUT
 # ON:
-![Screenshot 2024-09-10 110300](https://github.com/user-attachments/assets/11d20791-ebbd-4376-b5ae-3ecddcbd09b6)
+![image](https://github.com/user-attachments/assets/047da7a9-3d5e-4648-a7ef-f4b887a0940e)
 # OFF:
-![Screenshot 2024-09-10 120716](https://github.com/user-attachments/assets/12af0ca2-c238-42e4-9de9-da790bceac42)
+![Screenshot 2024-09-28 133713](https://github.com/user-attachments/assets/d29e95f9-f7fc-40da-a697-ae1dffd9fc97)
 ## RESULT
 Thus an LED control system using arduino microcontroller and push button is executed.
