@@ -64,7 +64,7 @@ Weighing Machines </br>
 ![image](https://github.com/user-attachments/assets/a481b2f0-78ab-48bb-93fa-61b1be875aa2)
 
 ## PROGRAM
-
+```
 const int buttonPin = 3;     
 const int ledPin =  13;     
 int buttonState = 0;         
@@ -84,7 +84,7 @@ void loop()
   digitalWrite(ledPin, LOW);
 }
 }
-
+```
 
 ## OUTPUT
 ## ON:
